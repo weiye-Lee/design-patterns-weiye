@@ -19,6 +19,7 @@
 - Client 使用者（Manager 类 负责使用复制实例的方法生成新的实例）
 - ConcretePrototype 具体的原型（实现Prototype接口的类）
 
+
 ### 问题
 
 ####   
